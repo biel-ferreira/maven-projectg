@@ -30,8 +30,5 @@ public class JDBCPostgres {
             ex.printStackTrace();
         }
 
-
-//        String url = "jdbc:postgresql://localhost/test?user=fred&password=secret&ssl=true";
-//        Connection conn = DriverManager.getConnection(url);
     }
 }
